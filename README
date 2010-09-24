@@ -1,0 +1,4 @@
+This project is to demonstrate nice plots from NKS which eventually will be generated in parallel or
+more exactly in a distributed way using Condor
+
+--Guy
